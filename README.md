@@ -1,0 +1,2 @@
+- Active virtual environment: source venv/bin/activate
+- Run!: fastapi dev main.py
